@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iXwuqBVhfhJ9UQjHZcZTSadFeRNfYUjzBDHMxA2E0wqpqqj4V/D2goy77Mts1cDrmQQWmqQBGQxXmsy9INxccA==",
+  "dgSpecHash": "VIGMMruxTRWNblo/r5m9dQgiYO7mmTmyL4TKeiASlxxFP6t2esCSCzmWtYxi5XSnUOQmgYQBlty7ItWZxTXd3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elifk\\Desktop\\Projects_ElifKaya\\newWeb6\\Week14\\YemekTarifleriApp\\YemekTarifleriApp.WebUI\\YemekTarifleriApp.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\elifk\\Desktop\\YemektarifleriApp\\YemekTarifleriApp\\YemekTarifleriApp.WebUI\\YemekTarifleriApp.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elifk\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\elifk\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S7vRbpMv6Awd0YKjHKAhVQp1LvBBDay+x+yFnfXJ0snRwrq6o/LBZTpvhJzL5husaDev9XKYKLcnSw3CygdYkQ==",
+  "dgSpecHash": "6W/09SLAdzusMlHFhDtHy3696TXXDzwQsSv9yXiUyX4D3Hvz78qP6ioif/MwgN0seCsLBRerWpbaLqZFjJTd1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elifk\\Desktop\\Projects_ElifKaya\\newWeb6\\Week14\\YemekTarifleriApp\\YemekTarifleriApp.Data\\YemekTarifleriApp.Data.csproj",
+  "projectFilePath": "C:\\Users\\elifk\\Desktop\\YemektarifleriApp\\YemekTarifleriApp\\YemekTarifleriApp.Data\\YemekTarifleriApp.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elifk\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\elifk\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

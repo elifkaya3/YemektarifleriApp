@@ -417,3 +417,14 @@ C:\Users\Web ve Mobil Prog\Desktop\Projects_ElifKaya\newWeb6\Week14\YemekTarifle
 C:\Users\elifk\Desktop\Projects_ElifKaya\newWeb6\Week14\YemekTarifleriApp\YemekTarifleriApp.WebUI\obj\Debug\net5.0\Razor\Views\Admin\MemberCreate.cshtml.g.cs
 C:\Users\elifk\Desktop\Projects_ElifKaya\newWeb6\Week14\YemekTarifleriApp\YemekTarifleriApp.WebUI\obj\Debug\net5.0\Razor\Views\Admin\MemberEdit.cshtml.g.cs
 C:\Users\elifk\Desktop\Projects_ElifKaya\newWeb6\Week14\YemekTarifleriApp\YemekTarifleriApp.WebUI\obj\Debug\net5.0\Razor\Views\Admin\MemberList.cshtml.g.cs
+C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.WebUI\obj\Debug\net5.0\YemekTarifleriApp.WebUI.csproj.AssemblyReference.cache
+C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.WebUI\obj\Debug\net5.0\YemekTarifleriApp.WebUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.WebUI\obj\Debug\net5.0\YemekTarifleriApp.WebUI.AssemblyInfoInputs.cache
+C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.WebUI\obj\Debug\net5.0\YemekTarifleriApp.WebUI.AssemblyInfo.cs
+C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.WebUI\obj\Debug\net5.0\YemekTarifleriApp.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.WebUI\obj\Debug\net5.0\YemekTarifleriApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.WebUI\obj\Debug\net5.0\YemekTarifleriApp.WebUI.RazorAssemblyInfo.cache
+C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.WebUI\obj\Debug\net5.0\YemekTarifleriApp.WebUI.RazorAssemblyInfo.cs
+C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.WebUI\obj\Debug\net5.0\YemekTarifleriApp.WebUI.dll
+C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.WebUI\obj\Debug\net5.0\ref\YemekTarifleriApp.WebUI.dll
+C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.WebUI\obj\Debug\net5.0\YemekTarifleriApp.WebUI.pdb

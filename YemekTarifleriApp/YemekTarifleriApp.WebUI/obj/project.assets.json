@@ -1279,11 +1279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elifk\\Desktop\\Projects_ElifKaya\\newWeb6\\Week14\\YemekTarifleriApp\\YemekTarifleriApp.WebUI\\YemekTarifleriApp.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\elifk\\Desktop\\YemektarifleriApp\\YemekTarifleriApp\\YemekTarifleriApp.WebUI\\YemekTarifleriApp.WebUI.csproj",
       "projectName": "YemekTarifleriApp.WebUI",
-      "projectPath": "C:\\Users\\elifk\\Desktop\\Projects_ElifKaya\\newWeb6\\Week14\\YemekTarifleriApp\\YemekTarifleriApp.WebUI\\YemekTarifleriApp.WebUI.csproj",
+      "projectPath": "C:\\Users\\elifk\\Desktop\\YemektarifleriApp\\YemekTarifleriApp\\YemekTarifleriApp.WebUI\\YemekTarifleriApp.WebUI.csproj",
       "packagesPath": "C:\\Users\\elifk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elifk\\Desktop\\Projects_ElifKaya\\newWeb6\\Week14\\YemekTarifleriApp\\YemekTarifleriApp.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\elifk\\Desktop\\YemektarifleriApp\\YemekTarifleriApp\\YemekTarifleriApp.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -1306,11 +1306,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\elifk\\Desktop\\Projects_ElifKaya\\newWeb6\\Week14\\YemekTarifleriApp\\YemekTarifleriApp.Bussiness\\YemekTarifleriApp.Bussiness.csproj": {
-              "projectPath": "C:\\Users\\elifk\\Desktop\\Projects_ElifKaya\\newWeb6\\Week14\\YemekTarifleriApp\\YemekTarifleriApp.Bussiness\\YemekTarifleriApp.Bussiness.csproj"
+            "C:\\Users\\elifk\\Desktop\\YemektarifleriApp\\YemekTarifleriApp\\YemekTarifleriApp.Bussiness\\YemekTarifleriApp.Bussiness.csproj": {
+              "projectPath": "C:\\Users\\elifk\\Desktop\\YemektarifleriApp\\YemekTarifleriApp\\YemekTarifleriApp.Bussiness\\YemekTarifleriApp.Bussiness.csproj"
             },
-            "C:\\Users\\elifk\\Desktop\\Projects_ElifKaya\\newWeb6\\Week14\\YemekTarifleriApp\\YemekTarifleriApp.Data\\YemekTarifleriApp.Data.csproj": {
-              "projectPath": "C:\\Users\\elifk\\Desktop\\Projects_ElifKaya\\newWeb6\\Week14\\YemekTarifleriApp\\YemekTarifleriApp.Data\\YemekTarifleriApp.Data.csproj"
+            "C:\\Users\\elifk\\Desktop\\YemektarifleriApp\\YemekTarifleriApp\\YemekTarifleriApp.Data\\YemekTarifleriApp.Data.csproj": {
+              "projectPath": "C:\\Users\\elifk\\Desktop\\YemektarifleriApp\\YemekTarifleriApp\\YemekTarifleriApp.Data\\YemekTarifleriApp.Data.csproj"
             }
           }
         }

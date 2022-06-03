@@ -241,25 +241,7 @@ namespace YemekTarifleriApp.WebUI.Controllers
 
             return View(model);
         }
-        public IActionResult RecipeEdit(RecipeModel model, int[] categoryIds, IFormFile file)
-        {
-            JobManager urlGenerate = new JobManager();
-            var url = urlGenerate.MakeUrl(model.RecipeName);
-
-            model.ImageUrl = urlGenerate.UploadImage(file, url);
-            var entity = _recipeService.GetById(model.RecipeId);
-
-            entity.RecipeName = model.RecipeName;
-            entity.RecipeMaterial = model.RecipeMaterial;
-            entity.RecipeDescription = model.RecipeDescription;
-            entity.Url = model.Url;
-            entity.IsApproved = model.IsApproved;
-            entity.IsHome = model.IsHome;
-            entity.ImageUrl = model.ImageUrl;
-
-            _recipeService.Update(entity, categoryIds);
-            return RedirectToAction("RecipeList");
-        }
+       
         public IActionResult MemberEdit(int id)
         {
             var entity = _memberService.GetById(id);
