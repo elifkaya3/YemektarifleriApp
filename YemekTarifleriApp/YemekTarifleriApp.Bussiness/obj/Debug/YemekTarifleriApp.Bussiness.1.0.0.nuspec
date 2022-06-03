@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>YemekTarifleriApp.Bussiness</id>
+    <version>1.0.0</version>
+    <authors>YemekTarifleriApp.Bussiness</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="YemekTarifleriApp.Data" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="YemekTarifleriApp.Entity" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Web ve Mobil Prog\Desktop\Projects_ElifKaya\newWeb6\Week15\YemekTarifleriApp\YemekTarifleriApp.Bussiness\bin\Debug\net5.0\YemekTarifleriApp.Bussiness.dll" target="lib\net5.0\YemekTarifleriApp.Bussiness.dll" />
+  </files>
+</package>

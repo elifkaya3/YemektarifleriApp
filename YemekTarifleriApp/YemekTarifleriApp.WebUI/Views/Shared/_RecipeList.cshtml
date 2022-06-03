@@ -1,0 +1,17 @@
+﻿@model YemekTarifleriApp.Entity.Recipe
+
+<div class="card mr-5 mb-2" style="height: 26rem;">
+    <div class="card-img p-2 text-md-center">
+        <img src="~/img/@Model.ImageUrl" class="img-fluid" style="height: 12rem; width:22rem;">
+    </div>
+    <div class="card-body">
+        <h5 class="card-title">@Model.RecipeName</h5>
+        <p class="card-text">@Model.RecipeDescription</p>
+        <a asp-controller="Recipe"
+           asp-action="Details"
+           asp-route-url=@Model.Url
+           class="btn btn-sm btn-primary">
+            Tarif Detayları
+        </a>
+    </div>
+</div>

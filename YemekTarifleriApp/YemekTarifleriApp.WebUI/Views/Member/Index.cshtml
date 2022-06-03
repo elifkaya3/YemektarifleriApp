@@ -1,0 +1,12 @@
+﻿@model List<YemekTarifleriApp.Entity.Member>
+
+<div class="col-md-12">
+    <div class="row">
+        @foreach (var member in Model)
+        {
+            <div class="col-md-4">
+                @await Html.PartialAsync("_Member", member)
+            </div>
+        }
+    </div>
+</div>

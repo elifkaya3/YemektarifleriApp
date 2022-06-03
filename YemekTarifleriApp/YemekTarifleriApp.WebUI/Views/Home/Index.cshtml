@@ -1,0 +1,16 @@
+﻿@model List<YemekTarifleriApp.Entity.Recipe>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="col-md-12" >
+    <div class="row">
+        @foreach (var recipe in Model)
+        {
+            <div class="col-md-4">
+                @await Html.PartialAsync("_Recipe", recipe)
+            </div>
+        }
+    </div>
+</div>

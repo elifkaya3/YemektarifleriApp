@@ -1,0 +1,46 @@
+﻿@model YemekTarifleriApp.WebUI.Models.RecipeListViewModel
+
+<div class="row">
+    <div class="col-md-9">
+        <div class="row">
+
+            @foreach (var recipeList in Model.Recipes)
+            {
+                <div class="col-md-4">
+                    @await Html.PartialAsync("_RecipeList", recipeList)
+                </div>
+            }
+        </div>
+        <div class="row">
+            <div class="col">
+                <nav>
+                    <ul class="pagination">
+                        @for (int i = 0; i < Model.PageInfo.TotalPages(); i++)
+                        {
+                            @if (string.IsNullOrEmpty(Model.PageInfo.CurrentCategory))
+                            {
+                                <li class="page-item @(Model.PageInfo.CurrentPage==i+1 ? "active" : "")">
+                                    <a href="/foods?page=@(i+1)" class="page-link">@(i+1)</a>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="page-item @(Model.PageInfo.CurrentPage==i+1 ? "active" : "")">
+                                    <a href="/foods/@Model.PageInfo.CurrentCategory?page=@(i+1)" class="page-link">@(i+1)</a>
+                                </li>
+                            }
+                        }
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="row">
+            @await Component.InvokeAsync("Categories")
+
+        </div>
+    </div>
+</div>
+
+

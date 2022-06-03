@@ -1,0 +1,40 @@
+.icon{
+    height: 2.94em;
+    width: 2.78em;
+    display: flex;
+    align-items: center; 
+    justify-content:center;
+    color: white;
+}
+ul{
+  list-style-type: none;
+}
+.liste {
+    display: flex;
+    justify-content: space-around;
+    position: absolute;
+    background-color: #f0932b;
+    width: 100%;
+}
+footer {
+    background-color: #f0932b;
+    color: #fff;
+   
+}
+.fab {
+padding: 8px;
+font-size: 30px;
+width: 32px;
+text-align: center;
+text-decoration: none;
+margin: 5px 2px;
+color:#fff;
+}
+body {
+    background-color: #ffdd59;
+    /*background-image:article{background-image:url(domat3.jpeg);}*/
+}
+.card {
+    background-color :#f5f6fa;
+    
+}

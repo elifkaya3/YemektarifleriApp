@@ -1,0 +1,24 @@
+﻿@model YemekTarifleriApp.WebUI.Models.RecipeDetailModel
+
+<div class="row" style="height:480px;">
+    <div class="col-md-2">
+        <img src="~/img/@Model.Recipe.ImageUrl" class="img-fluid" alt="Alternate Text" />
+    </div>
+    <div class="col-md-10">
+        <h1 class="mb-3 text-white">@Model.Recipe.RecipeName</h1>
+        <hr />
+        @foreach (var recipe in Model.Categories)
+        {
+            <a asp-controller="Recipe"
+               asp-action="Details"
+               asp-route-category="@recipe.Url"
+               class="btn btn-link p-0 mb-3">@recipe.CategoryName </a>}
+        <div class="mb-3">
+            <div class="mb-3">
+                <p>@Model.Recipe.RecipeMaterial</p>
+                <p>@Model.Recipe.RecipeDescription</p>
+                <p class="card-text">@Model.Recipe.RecipeReleaseDate</p>
+            </div>
+        </div>
+    </div>
+</div>

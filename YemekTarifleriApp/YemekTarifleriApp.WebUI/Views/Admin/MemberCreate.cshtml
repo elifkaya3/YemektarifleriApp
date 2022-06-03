@@ -1,0 +1,41 @@
+﻿@model YemekTarifleriApp.WebUI.Models.MemberModel
+
+<h5 class="display-3 text-light">Yeni Yazar Yarat</h5>
+<hr />
+<form asp-controller="Admin" asp-action="MemberCreate" method="post">
+    <div class="row "  style="height:450px">
+        <div class="col-md-8">
+
+            <div class="form-group row mb-2">
+                <label class="col-form-label col-sm-3">Yazar ismi:</label>
+                <div class="col-sm-9">
+                    <input type="text" asp-for="MemberName" class="form-control" />
+                    <span asp-validation-for="MemberName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row mb-2">
+                <label class="col-form-label col-sm-3">Yazar Mail:</label>
+                <div class="col-sm-9">
+                    <input type="text" asp-for="MemberMail" class="form-control" />
+                    <span asp-validation-for="MemberMail" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row mb-2">
+                <label class="col-form-label col-sm-3">Yazar Kullanıcı Adı:</label>
+                <div class="col-sm-9">
+                    <input type="text" asp-for="MemberUserName" class="form-control" />
+                    <span asp-validation-for="MemberUserName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="form-group row mb-2">
+                <div class="col-sm-9">
+                    <button type="submit" class="btn btn-success">Yazar Kaydet</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</form>
