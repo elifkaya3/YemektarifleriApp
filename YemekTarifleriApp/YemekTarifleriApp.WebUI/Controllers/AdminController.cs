@@ -242,9 +242,9 @@ namespace YemekTarifleriApp.WebUI.Controllers
             return View(model);
         }
         
-        public IActionResult MemberEdit(int id)
+        public IActionResult MemberEdit(int? id)
         {
-            var entity = _memberService.GetById(id);
+            var entity = _memberService.GetById((int)id);
             var model = new MemberModel()
             {
                 MemberId = entity.MemberId,
