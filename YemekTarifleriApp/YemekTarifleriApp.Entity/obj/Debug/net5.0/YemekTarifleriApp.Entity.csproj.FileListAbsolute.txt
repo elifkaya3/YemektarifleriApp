@@ -70,3 +70,15 @@ C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Ent
 C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Entity\obj\Debug\net5.0\YemekTarifleriApp.Entity.dll
 C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Entity\obj\Debug\net5.0\ref\YemekTarifleriApp.Entity.dll
 C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Entity\obj\Debug\net5.0\YemekTarifleriApp.Entity.pdb
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Entity\bin\Debug\net5.0\YemekTarifleriApp.Entity.deps.json
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Entity\bin\Debug\net5.0\YemekTarifleriApp.Entity.dll
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Entity\bin\Debug\net5.0\ref\YemekTarifleriApp.Entity.dll
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Entity\bin\Debug\net5.0\YemekTarifleriApp.Entity.pdb
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Entity\obj\Debug\net5.0\YemekTarifleriApp.Entity.csproj.AssemblyReference.cache
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Entity\obj\Debug\net5.0\YemekTarifleriApp.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Entity\obj\Debug\net5.0\YemekTarifleriApp.Entity.AssemblyInfoInputs.cache
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Entity\obj\Debug\net5.0\YemekTarifleriApp.Entity.AssemblyInfo.cs
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Entity\obj\Debug\net5.0\YemekTarifleriApp.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Entity\obj\Debug\net5.0\YemekTarifleriApp.Entity.dll
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Entity\obj\Debug\net5.0\ref\YemekTarifleriApp.Entity.dll
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Entity\obj\Debug\net5.0\YemekTarifleriApp.Entity.pdb

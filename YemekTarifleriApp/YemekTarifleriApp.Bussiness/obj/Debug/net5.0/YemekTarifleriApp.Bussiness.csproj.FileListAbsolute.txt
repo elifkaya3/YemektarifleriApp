@@ -100,3 +100,20 @@ C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bus
 C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\obj\Debug\net5.0\YemekTarifleriApp.Bussiness.dll
 C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\obj\Debug\net5.0\ref\YemekTarifleriApp.Bussiness.dll
 C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\obj\Debug\net5.0\YemekTarifleriApp.Bussiness.pdb
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\bin\Debug\net5.0\YemekTarifleriApp.Bussiness.deps.json
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\bin\Debug\net5.0\YemekTarifleriApp.Bussiness.dll
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\bin\Debug\net5.0\ref\YemekTarifleriApp.Bussiness.dll
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\bin\Debug\net5.0\YemekTarifleriApp.Bussiness.pdb
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\bin\Debug\net5.0\YemekTarifleriApp.Data.dll
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\bin\Debug\net5.0\YemekTarifleriApp.Entity.dll
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\bin\Debug\net5.0\YemekTarifleriApp.Data.pdb
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\bin\Debug\net5.0\YemekTarifleriApp.Entity.pdb
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\obj\Debug\net5.0\YemekTarifleriApp.Bussiness.csproj.AssemblyReference.cache
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\obj\Debug\net5.0\YemekTarifleriApp.Bussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\obj\Debug\net5.0\YemekTarifleriApp.Bussiness.AssemblyInfoInputs.cache
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\obj\Debug\net5.0\YemekTarifleriApp.Bussiness.AssemblyInfo.cs
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\obj\Debug\net5.0\YemekTarifleriApp.Bussiness.csproj.CoreCompileInputs.cache
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\obj\Debug\net5.0\YemekTarifleriApp.Bussiness.csproj.CopyComplete
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\obj\Debug\net5.0\YemekTarifleriApp.Bussiness.dll
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\obj\Debug\net5.0\ref\YemekTarifleriApp.Bussiness.dll
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Bussiness\obj\Debug\net5.0\YemekTarifleriApp.Bussiness.pdb

@@ -106,3 +106,21 @@ C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Dat
 C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\obj\Debug\net5.0\ref\YemekTarifleriApp.Data.dll
 C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\obj\Debug\net5.0\YemekTarifleriApp.Data.pdb
 C:\Users\elifk\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\obj\Debug\net5.0\YemekTarifleriApp.Data.genruntimeconfig.cache
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\bin\Debug\net5.0\YemekTarifleriApp.Data.deps.json
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\bin\Debug\net5.0\YemekTarifleriApp.Data.runtimeconfig.json
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\bin\Debug\net5.0\YemekTarifleriApp.Data.runtimeconfig.dev.json
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\bin\Debug\net5.0\YemekTarifleriApp.Data.dll
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\bin\Debug\net5.0\ref\YemekTarifleriApp.Data.dll
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\bin\Debug\net5.0\YemekTarifleriApp.Data.pdb
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\bin\Debug\net5.0\YemekTarifleriApp.Entity.dll
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\bin\Debug\net5.0\YemekTarifleriApp.Entity.pdb
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\obj\Debug\net5.0\YemekTarifleriApp.Data.csproj.AssemblyReference.cache
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\obj\Debug\net5.0\YemekTarifleriApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\obj\Debug\net5.0\YemekTarifleriApp.Data.AssemblyInfoInputs.cache
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\obj\Debug\net5.0\YemekTarifleriApp.Data.AssemblyInfo.cs
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\obj\Debug\net5.0\YemekTarifleriApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\obj\Debug\net5.0\YemekTarifleriApp.Data.csproj.CopyComplete
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\obj\Debug\net5.0\YemekTarifleriApp.Data.dll
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\obj\Debug\net5.0\ref\YemekTarifleriApp.Data.dll
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\obj\Debug\net5.0\YemekTarifleriApp.Data.pdb
+C:\Users\Web ve Mobil Prog\Desktop\YemektarifleriApp\YemekTarifleriApp\YemekTarifleriApp.Data\obj\Debug\net5.0\YemekTarifleriApp.Data.genruntimeconfig.cache
