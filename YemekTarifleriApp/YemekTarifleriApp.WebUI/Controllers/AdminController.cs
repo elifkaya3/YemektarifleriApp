@@ -199,7 +199,7 @@ namespace YemekTarifleriApp.WebUI.Controllers
 
             var entity = _categoryService.GetById(model.CategoryId);
             entity.CategoryName = model.CategoryName;
-            entity.Url = model.Url;
+            entity.Url = url;
             _categoryService.Update(entity, categoryIds);
             return RedirectToAction("CategoryList");
         }
